@@ -9,6 +9,8 @@ public class Newgit {
 		
 		System.out.println("user1 first commit");
 		
+		System.out.println("user2 first commit");
+		
 	}
 
 }
