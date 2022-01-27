@@ -12,7 +12,7 @@ public class Newgit {
 		System.out.println("user2 first commit");
 		
 		System.out.println("user1 secend commit");
-		
+		System.out.println("user1 2secend commit");
 		
 		
 	}
