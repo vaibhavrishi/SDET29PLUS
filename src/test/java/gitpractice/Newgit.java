@@ -11,12 +11,12 @@ public class Newgit {
 		
 		System.out.println("user2 first commit");
 		
-<<<<<<< HEAD
 		System.out.println("user1 secend commit without pull");
-=======
 		System.out.println("user1 secend commit");
 		System.out.println("user1 2secend commit");
->>>>>>> branch 'master' of https://github.com/vaibhavrishi/SDET29PLUS.git
+		
+		System.out.println("ready to commit");
+//github.com/vaibhavrishi/SDET29PLUS.git
 		
 		
 	}
